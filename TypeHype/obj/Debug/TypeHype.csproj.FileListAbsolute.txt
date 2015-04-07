@@ -1,0 +1,15 @@
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\TypeHype.dll.config
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\TypeHype.dll
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\TypeHype.pdb
+C:\Dev\TypeHype\TypeHype\TypeHype\obj\Debug\TypeHype.csprojResolveAssemblyReference.cache
+C:\Dev\TypeHype\TypeHype\TypeHype\obj\Debug\TypeHype.dll
+C:\Dev\TypeHype\TypeHype\TypeHype\obj\Debug\TypeHype.pdb
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\background.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\bullet.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\enemy.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\exp1.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\exp2.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\exp3.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\health.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\player.png
+C:\Dev\TypeHype\TypeHype\TypeHype\bin\assets\title.png
